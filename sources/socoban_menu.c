@@ -16,6 +16,8 @@ char *g_s_menu_items[MENU_MAIN_END] =
 
 void    s_m_draw();
 
+//----------------------------------------------------------------------------------------------------------------------
+
 void    socoban_menu_init()
 {
     g_s_menu_state = MENU_MAIN;

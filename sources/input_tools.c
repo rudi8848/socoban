@@ -30,4 +30,5 @@ eKeyCode it_get_key()
         case 27:
             return KEY_ESC;
     }
+    return 0;
 }
